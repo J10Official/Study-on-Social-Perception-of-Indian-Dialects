@@ -8,7 +8,7 @@
 
 This study aims to understand the social perception of different Hindi dialects, specifically focusing on Standard Hindi, Persianized Hindi, and Bhojpuri. By analyzing linguistic attitudes and biases, the research explores how dialectal variation influences social stereotypes and the role demographic factors play in shaping these perceptions. 
 
-## 🔬 Methodology
+##  Methodology
 
 The research employs a mixed-methods approach to examine societal attitudes toward these linguistic varieties: 
 
