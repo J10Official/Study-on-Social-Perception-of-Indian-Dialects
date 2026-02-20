@@ -12,16 +12,13 @@ This study aims to understand the social perception of different Hindi dialects,
 
 The research employs a mixed-methods approach to examine societal attitudes toward these linguistic varieties: 
 
-* 
-**Matched-Guise Technique**: A sociolinguistic method where participants listen to audio recordings of the same speaker using different dialects. Because participants are unaware the speaker is identical, this isolates judgments based on language rather than personal traits. 
+* **Matched-Guise Technique**: A sociolinguistic method where participants listen to audio recordings of the same speaker using different dialects. Because participants are unaware the speaker is identical, this isolates judgments based on language rather than personal traits. 
 
 
-* 
-**Bogardus Social Distance Scale**: This scale measures an individual's willingness to engage in varying levels of social relationships (ranging from intimate in-laws to impersonal fellow citizens) with different groups. 
+* **Bogardus Social Distance Scale**: This scale measures an individual's willingness to engage in varying levels of social relationships (ranging from intimate in-laws to impersonal fellow citizens) with different groups. 
 
 
-* 
-**Data Collection**: Data was collected via a questionnaire (yielding 79 entries) from participants primarily located in Northern India (Uttar Pradesh, Madhya Pradesh, Rajasthan, and Delhi). 
+* **Data Collection**: Data was collected via a questionnaire (yielding 79 entries) from participants primarily located in Northern India (Uttar Pradesh, Madhya Pradesh, Rajasthan, and Delhi). 
 
 
 
@@ -68,12 +65,10 @@ The research employs a mixed-methods approach to examine societal attitudes towa
 
 ##  Demographic & Regional Insights
 
-* 
-**Age Variations**: The older generation (particularly in Rajasthan) rated all three dialects as more complex than the younger generation did. Older participants also evaluated Persianized Hindi far more negatively and showed a greater preference for Standard Hindi. 
+* **Age Variations**: The older generation (particularly in Rajasthan) rated all three dialects as more complex than the younger generation did. Older participants also evaluated Persianized Hindi far more negatively and showed a greater preference for Standard Hindi. 
 
 
-* 
-**Regional Differences**: Regional analysis indicates that evaluating a dialect positively does not always translate to social acceptance. For example, in Madhya Pradesh, Persianized Hindi was rated as "sweet sounding" due to the popularity of poetry, but this did not positively correlate with the social distance scale. 
+* **Regional Differences**: Regional analysis indicates that evaluating a dialect positively does not always translate to social acceptance. For example, in Madhya Pradesh, Persianized Hindi was rated as "sweet sounding" due to the popularity of poetry, but this did not positively correlate with the social distance scale. 
 
 
 
@@ -82,6 +77,3 @@ The research employs a mixed-methods approach to examine societal attitudes towa
 * **Full Study**: [`Report.pdf`](https://www.google.com/search?q=Report.pdf)
 * **Questionnaire Used**: [View the original Google Form (Reference)](https://docs.google.com/forms/d/e/1FAIpQLScpbm0ruHQJ77sSDCYTrB5mMgDhm1iaJdNmn7th5dLmIOslHQ/viewform?usp=dialog)
 
----
-
-Would you like me to help draft a section for the README detailing how others can replicate your methodology or contribute to the repository?
