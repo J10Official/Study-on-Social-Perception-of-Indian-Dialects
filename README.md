@@ -1,7 +1,3 @@
-Here is a `README.md` file designed to sit at the front of your repository, featuring a direct link to the report and a structured summary of the study.
-
----
-
 # Study On Social Perception of Hindi Dialects
 
 **By Team Lingua Nexus** 
