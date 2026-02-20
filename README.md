@@ -2,7 +2,7 @@
 
 **By Team Lingua Nexus** 
 
- **[Read the Full Report (Report.pdf)](https://www.google.com/search?q=Report.pdf)**
+ **[Read the Full Report (Report.pdf)](Report.pdf)**
 
 ##  Project Overview
 
